@@ -43,14 +43,14 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot1] 
+"C:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2025-08-09 152522.png"
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot2]
+"C:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2025-08-09 152631.png"
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+![Screenshot3]
+"C:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2025-08-09 152700.png"
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
