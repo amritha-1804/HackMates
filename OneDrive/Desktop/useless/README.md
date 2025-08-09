@@ -1,4 +1,4 @@
-<img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
+<img width="1428" height="941" alt="Screenshot 2025-08-09 152700" src="https://github.com/user-attachments/assets/89e2cec8-4089-4a68-a3d9-b99868a203f3" /><img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
 # REVERSE TYPING PROJECT 🎯
@@ -51,6 +51,7 @@ For Software:
 
 ![Screenshot3]
 "C:\Users\USER\OneDrive\Pictures\Screenshots\Screenshot 2025-08-09 152700.png"
+
 
 # Diagrams
 ![Workflow](Add your workflow/architecture diagram here)
