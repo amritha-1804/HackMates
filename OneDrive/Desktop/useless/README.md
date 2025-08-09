@@ -5,35 +5,31 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: HackMates
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Amritha M S - College of Engineering Poonjar
+- Member 2: Niranjana D Rao - College of Engineering Poonjar
 
 ### Project Description
-[2-3 lines about what your project does]
+The Reverse Typing Project is a fun web app that instantly displays whatever you type in reverse order. It uses JavaScript string manipulation and event handling to transform input in real time, making it a quirky yet educational example of interactive programming.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+The problem is that normal typing always appears in the correct order, so there’s no easy way to watch your words appear backward in real time — until this project came along.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+It solves the completely unnecessary problem of reading your own text backward — something no one actually needs, but now you can do instantly for fun, curiosity, or confusing your friends.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Language: HTML, CSS, JavaScript
+Framework: None (vanilla JavaScript)
+Library: None (built entirely with native browser APIs)
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+None
 
 ### Implementation
 For Software:
